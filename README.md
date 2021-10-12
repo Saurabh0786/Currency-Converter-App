@@ -7,7 +7,7 @@ If you want exchange rate of that country just clicked the button.
 It will show the current rate and If you will change the country it will also see the flag of that country.
 
 # Tech stacks used:-
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript,API
 
 # API Used:-
 https://v6.exchangerate-api.com
