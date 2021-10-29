@@ -16,4 +16,3 @@ https://v6.exchangerate-api.com
 https://goofy-beaver-46a5d9.netlify.app
 
 # ScreenShot:-
-![Currency converter screenshot](https://user-images.githubusercontent.com/40481420/134214570-17d1fee2-5b4a-4d47-932d-55763e14cbb0.png)
